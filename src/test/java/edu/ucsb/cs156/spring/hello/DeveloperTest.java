@@ -27,7 +27,7 @@ public class DeveloperTest {
 
     @Test
         public void getGithubId_returns_correct_githubId() {
-            assertEquals("Nini", Developer.getGithubId());
+            assertEquals("yensydney", Developer.getGithubId());
         }
 
     @Test
